@@ -41,12 +41,12 @@ RL-algorithms/
    cd RL-algorithms
    ```
 
-3. **Install dependencies** 
+2. **Install dependencies** 
    ```bash
    pip install torch gymnasium pybullet-gymnasium numpy matplotlib
    ```
 
-4. **Run SAC training**
+3. **Run SAC training**
    ```bash
    cd soft-actor-critic
    python main.py
