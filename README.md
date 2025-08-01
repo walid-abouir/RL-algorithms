@@ -41,7 +41,7 @@ RL-algorithms/
    cd RL-algorithms
    ```
 
-3. **Install dependencies**
+3. **Install dependencies** 
    ```bash
    pip install torch gymnasium pybullet-gymnasium numpy matplotlib
    ```
